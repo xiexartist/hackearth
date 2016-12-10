@@ -77,8 +77,8 @@ void primes(void)
 			break;
 		}
 	prime[n-1]=200;
-	printf("%d\n",n);
-for(int i=0;i<=n;i++)
-	printf("%d %c",prime[i],prime[i]);
+//	printf("%d\n",n);
+//for(int i=0;i<=n;i++)
+//	printf("%d %c",prime[i],prime[i]);
 
 }
